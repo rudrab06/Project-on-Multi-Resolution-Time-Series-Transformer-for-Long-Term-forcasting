@@ -1,4 +1,4 @@
-# Multi-resolution Time-Series Transformer for Long-term Forecasting (MTST). [arxiv](https://arxiv.org/pdf/2311.04147.pdf)
+# Multi-resolution Time-Series Transformer for Long-term Forecasting (MTST)
 this code is the corrected version of given code, after successfully again debugging and making it adaptive with the current upgrades.
 
 
@@ -16,7 +16,8 @@ this code is the corrected version of given code, after successfully again debug
 sh ./scripts/MTST/etth2.sh
 ```
 
-
+papers link
+. [link](https://arxiv.org/pdf/2311.04147.pdf)
 ## Acknowledgement
 
 We appreciate the following github repo very much for the valuable code base and datasets:
