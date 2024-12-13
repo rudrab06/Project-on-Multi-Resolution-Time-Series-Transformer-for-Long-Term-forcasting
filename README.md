@@ -1,7 +1,5 @@
 # Multi-resolution Time-Series Transformer for Long-term Forecasting (MTST). [arxiv](https://arxiv.org/pdf/2311.04147.pdf)
-This paper has been accepted at AISTATS 2024.
-this code is the debugged code for this paper( you can read this paper but you wont be able to directly run the code as the there are some bugs and error)
-
+this code is the corrected version of given code, after successfully again debugging and making it adaptive with the current upgrades.
 
 
 ## Getting Started
